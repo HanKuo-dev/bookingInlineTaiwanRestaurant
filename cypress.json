@@ -1,0 +1,17 @@
+{
+  "baseUrl": "https://inline.app/booking/-LAIC15gTAmCYpjFUcit/-LAIC15gTAmCYpjFUciu",
+  "env": {
+    "name": "ChengHan Kuo",
+    "phone": "919857678",
+    "email": "a7891905@gmail.com",
+    "comment": "No beef!",
+    "cardNumber": "",
+    "cardExpired": "",
+    "cardDigits": ""
+  },
+  "numTestsKeptInMemory": 0,
+  "video": false,
+  "chromeWebSecurity": false,
+  "pageLoadTimeout": 600000,
+  "defaultCommandTimeout": 10000
+}

@@ -1,0 +1,23 @@
+{
+  "name": "cypress_booking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@testing-library/cypress": "^8.0.2",
+    "cypress": "^9.4.1",
+    "cypress-iframe": "^1.0.1",
+    "cypress-plugin-tab": "^1.0.5",
+    "typescript": "^4.5.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc cypress open ",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --headless --browser chrome --spec cypress/integration/willTeppanyaki.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
